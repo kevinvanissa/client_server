@@ -1,0 +1,1 @@
+This example creates a simple TCP server that listens on port 8080 and echoes back any message it receives from a client. The client takes a single command line argument, which is the message to send to the server. When the server receives a message, it prints it to the console, and the client prints the message it sent.
